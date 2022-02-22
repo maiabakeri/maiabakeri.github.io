@@ -1,0 +1,162 @@
+@charset "utf-8";
+/*ResetCSS */
+*{
+	margin: 0;
+	padding: 0;
+}
+@font-face{
+	
+src: url("SVN-Lobster.ttf");
+	font-family: lobster;
+
+}	
+.menu{
+	margin-top: 50px;
+}
+.menu h1{
+	font-family:Lobster;
+	font-size: 100;
+	margin-bottom: 30px;
+}
+.menu h3{
+	font-family: Dongle;
+}
+.menu h2{
+	font-family: Lobster;
+	margin-top: 80px;
+	margin-bottom: 50px;
+}
+.bdc h5{
+	font-family: Dongle;
+	font-size: 40px;
+}
+.bdc p{
+	font-family: Dongle;
+	font-size: 20px;
+}
+.xem{
+	margin-left: 1020px;
+}
+.bdc a{
+	color:#BD3C48;
+}
+.bdc{
+	margin-top: 50px;
+}
+.menuu{
+	margin-top: 50px;
+
+}
+.menuu h2{
+	font-family:Lobster;
+	font-size: 100;
+	margin-bottom: 30px;
+}
+.tart h5{
+	font-family: Dongle;
+	font-size: 40px;
+}
+.tart p{
+	font-family: Dongle;
+	font-size: 20px;
+}
+.xem{
+	margin-left: 1020px;
+}
+.tart a{
+	color:#BD3C48;
+}
+.tart{
+	margin-top: 50px;
+}
+.menuuu{
+	margin-top: 50px;
+
+}
+.menuuu h2{
+	font-family:Lobster;
+	font-size: 100;
+	margin-bottom: 30px;
+}
+.mcr h5{
+	font-family: Dongle;
+	font-size: 40px;
+}
+.mcr p{
+	font-family: Dongle;
+	font-size: 20px;
+}
+.xem{
+	margin-left: 1020px;
+}
+.mcr a{
+	color:#BD3C48;
+}
+.mcr{
+	margin-top: 50px;
+}
+.event{
+	margin-top: 50px;
+
+}
+.event h2{
+	font-family:Lobster;
+	font-size: 100;
+	margin-bottom: 30px;
+}
+.ev h5{
+	font-family: Dongle;
+	font-size: 40px;
+}
+.ev p{
+	font-family: Dongle;
+	font-size: 20px;
+}
+.xem{
+	margin-left: 1020px;
+}
+.ev a{
+	color:#BD3C48;
+}
+.ev{
+	margin-top: 50px;
+}
+.chan{
+	background-color:   black;
+	margin-top: 50px;
+}
+.footer{
+	padding-top: 70px;
+}
+.footer p,i {
+	color: white;
+	padding: 8px
+}
+.ft1 a{
+	padding: 15px;
+}
+.footer-list{
+	padding-top: 70px;
+}
+.footerlist ul{
+	list-style: none;
+	
+}
+.ftlist ul{
+	list-style: none;
+	
+}
+.ftlist2 ul{
+	list-style: none;
+	
+}
+.footer-list li a ,h5{
+	color: white;
+}
+.ftlist li, a, h5{
+	color: white;
+	
+}
+.ftlist2 li, a, h5{
+	color: white;
+}
